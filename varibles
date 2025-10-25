@@ -4,3 +4,8 @@ PERSON2=Suresh
 
 echo "$PERSON1 : Hi"
 echo "$PERSON2 :Hello Ramesh"
+
+
+echo " Please enter user Id"
+read USERID
+echo " user ID : $USERID
